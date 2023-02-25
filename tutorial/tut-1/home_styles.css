@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(135deg, #faf7f5 0%, #c3cfe2 100%);
+}
+.header{
+    padding-left: 50px;
+}
+.topHead{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.center{
+    text-align: center;
+}
+.textPad{
+    padding: 20px 30px;
+}
+.listPad{
+    padding: 20px 60px;
+}
+.listHead{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.tabMar{
+    margin: 30px 0px
+}
+.isize{
+    height: 300px;
+    width: 300px;
+}
